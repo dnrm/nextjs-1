@@ -1,0 +1,13 @@
+.title {
+    font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
+    font-weight: 900;
+}
+
+.id {
+    position: fixed;
+    font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
+    top: 0px;
+    left: 0px;
+    padding: 15px;
+    margin: 0;
+}
