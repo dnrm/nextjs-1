@@ -1,7 +1,5 @@
 import Head from 'next/head';
-
 import Layout from '../components/layout';
-
 import styles from '../styles/article.module.css';
 
 export default function About() {
